@@ -1,14 +1,15 @@
-# TDC Busines São Paulo 2022
-## Session Resilient Architectures in Java
+# TDC Business São Paulo 2022
+## Session - Resilient Architectures in Java
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flpiedade%2Ftdc-biz-java-2022&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/lpiedade/tdc-biz-java-2022)
 [![License](https://img.shields.io/github/license/lpiedade/aws-summit-sp-arc201?title_bg=%23555555&icon=&icon_color=%23E7E7E7)](./LICENSE)
-[![aaa](https://img.shields.io/badge/aws-summit%202022-yellow)](https://aws.amazon.com/pt/events/summits/sao-paulo/)
+[![TDC Business 2022](https://img.shields.io/badge/tdc-business--2022-blue)](https://aws.amazon.com/pt/events/summits/sao-paulo/)
 <a href="https://twitter.com/intent/follow?screen_name=leo_ap">
     <img src="https://img.shields.io/twitter/follow/leo_ap?style=social&logo=twitter" alt="follow on Twitter"></a>
 
 
 Speaker: [Leonardo Piedade](https://bit.ly/linkedin-leoap)
+
 Presentation Deck: [here](https://bit.ly/tdcsp-2022-deck)
 
 
@@ -31,6 +32,15 @@ Presentation Deck: [here](https://bit.ly/tdcsp-2022-deck)
 <br>
 <br>
 
+<img align="left" width="150" height="180" src="images/book_cloud_native_java.jpg" style="margin:10px 10px 10px 10px; border: 1px solid black;">
+
+&nbsp; &nbsp; &nbsp; [Cloud Native Java: Designing Resilient Systems with Spring Boot](https://www.amazon.com/Cloud-Native-Java-Designing-Resilient/dp/1449374646/)
+
+&nbsp; &nbsp; &nbsp; What separates the traditional enterprise from the likes of Amazon, Netflix, and Etsy? Those companies have refined the art of cloud native development to maintain their competitive edge and stay well ahead of the competition. This practical guide shows Java/JVM developers how to build better software, faster, using Spring Boot, Spring Cloud, and Cloud Foundry.
+
+<br>
+<br>
+<br>
 <img align="left" width="150" height="180" src="images/book_cloud_native_applications_with_java.jpg" style="margin:10px 10px 10px 10px; border: 1px solid black;">
 
 &nbsp; &nbsp; &nbsp; [Hands-On Cloud-Native Applications with Java and Quarkus](https://www.amazon.com/Hands-Cloud-Native-Applications-Quarkus-Kubernetes-native/dp/1838821473/)
